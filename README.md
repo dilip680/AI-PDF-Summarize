@@ -1,1 +1,1 @@
-# AI-Summarize
+# AI-PDF-Summarize
